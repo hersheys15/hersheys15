@@ -1,15 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashvik Vijai
 
-<!--
-**hersheys15/hersheys15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UCF passionate about building at the intersection of **software, systems, and smart decisions**.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔭 What I'm Working On
+- 🚀 CUDA kernels and high-performance matrix operations (`cuda-learning-journey`)
+- 🧠 Natural language querying for structured data (`idqsSummer25`)
+- 💸 Evaluating digital therapeutics in the healthtech space (`reguTxTech`)
+
+### 🛠️ Technologies I Use
+`C++` `CUDA` `Python` `TypeScript` `MongoDB` `Bash` `Linux` `Git`
+
+### 🧠 I’m Learning
+- Parallelism & GPU optimization
+- Quantitative modeling for fintech
+- Product management strategies in tech
+
+### 🤝 Find Me Elsewhere
+- [LinkedIn](https://linkedin.com/in/ashvikv)
+- 📫 as474269@ucf.edu
