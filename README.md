@@ -1,20 +1,41 @@
-# 👋 Hi, I'm Ashvik Vijai
+<h1 align="center">Hey, I'm Ashvik Vijai 👋</h1>
+<p align="center">CS @ UCF | CUDA • HPC • Fintech • Product Thinking</p>
 
-I'm a Computer Science student at UCF passionate about building at the intersection of **software, systems, and smart decisions**.
+---
 
-### 🔭 What I'm Working On
-- 🚀 CUDA kernels and high-performance matrix operations (`cuda-learning-journey`)
-- 🧠 Natural language querying for structured data (`idqsSummer25`)
-- 💸 Evaluating digital therapeutics in the healthtech space (`reguTxTech`)
+## 🚀 Current Projects
 
-### 🛠️ Technologies I Use
-`C++` `CUDA` `Python` `TypeScript` `MongoDB` `Bash` `Linux` `Git`
+- 🔧 **[cuda-learning-journey](https://github.com/hersheys15/cuda-learning-journey):** Writing CUDA kernels and exploring GPU-based performance benchmarks
+- 🧠 **[idqsSummer25](https://github.com/hersheys15/idqsSummer25):** Natural language → SQL interface for structured data queries
+- 💊 **[reguTxTech](https://github.com/hersheys15/reguTxTech):** Evaluating the credibility of digital therapeutics using Python
 
-### 🧠 I’m Learning
-- Parallelism & GPU optimization
-- Quantitative modeling for fintech
-- Product management strategies in tech
+---
 
-### 🤝 Find Me Elsewhere
-- [LinkedIn](https://linkedin.com/in/ashvikv)
-- 📫 as474269@ucf.edu
+## 🛠️ Tech Stack
+
+```bash
+Languages:      C++ | Python | JavaScript | TypeScript | CUDA | Bash
+Frameworks:     Node.js | Express | React | Flask
+Tools:          Git | MongoDB | Docker | VS Code | Linux | WSL
+🧠 Interests & Learning
+High-performance computing (HPC) & CUDA optimization
+
+Fintech product design and simulation
+
+PM fundamentals for scalable software projects
+
+Algorithmic finance and data-driven products
+
+👥 Collaborations
+I've contributed to:
+
+aliasofsyn/HACKLYTICS – frontend + data integration for a hackathon project
+
+jermachong/COP4331_LP – backend endpoints and data logic for a travel planner
+
+vdc109/ReguTX – reliability evaluation of digital health tools
+
+📫 Let's Connect
+💼 LinkedIn
+
+📬 as474269@ucf.edu
