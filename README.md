@@ -17,6 +17,7 @@
 Languages:      C++ | Python | JavaScript | TypeScript | CUDA | Bash
 Frameworks:     Node.js | Express | React | Flask
 Tools:          Git | MongoDB | Docker | VS Code | Linux | WSL
+```
 🧠 Interests & Learning
 High-performance computing (HPC) & CUDA optimization
 
@@ -36,6 +37,7 @@ jermachong/COP4331_LP – backend endpoints and data logic for a travel planner
 vdc109/ReguTX – reliability evaluation of digital health tools
 
 📫 Let's Connect
-💼 LinkedIn
-
+💼 LinkedIn: www.linkedin.com/in/ashvikv
 📬 as474269@ucf.edu
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hersheys15&show_icons=true&theme=radical" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hersheys15&layout=compact&theme=radical" height="165"> </p>
